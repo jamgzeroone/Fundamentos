@@ -27,5 +27,7 @@
     console.log('Ninguna de las variables se encuentra contenida en ninguna de las otras variables ');
   }
   ```
+  ##### Condicional FOR, WHILE, DO WHILE
+  [Condicion While](https://github.com/jamgzeroone/Fundamentos/blob/master/html/ciclos.html "Condicion Do While")
  
 ### Estructuras de control Repetitivo
