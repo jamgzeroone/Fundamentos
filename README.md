@@ -66,7 +66,7 @@
   * toString
 
 ### Métodos Javascript para some y map.
-  [some y map](https://github.com/jamgzeroone/Fundamentos/blob/master/js/metodosStrArr.js "Metodos some y map")
+  [some y map](https://github.com/jamgzeroone/Fundamentos/blob/master/js/somemap.js "Metodos some y map")
   > some
   ```
   let metodosome = ['Tigres', 'Abejas', 'Murcielagos', 'Avispas', 'Moscas'];
