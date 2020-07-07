@@ -26,7 +26,10 @@
   } else {
     console.log('Ninguna de las variables se encuentra contenida en ninguna de las otras variables ');
   }
+
   ```
+  ### Estructuras de control Repetitivo.
+
   ##### Condicional FOR, WHILE, DO WHILE
 
   [Condicion While](https://github.com/jamgzeroone/Fundamentos/blob/master/html/ciclos.html "Condicion Do While")
@@ -47,4 +50,17 @@
 
   ```
  
-### Estructuras de control Repetitivo
+### Métodos Javascript para Arrys y Strings.
+#### Metodos Strings usados
+  * endsWith
+  * toLocaleUpperCase
+  * toLocaleLowerCase
+  * slice
+  * trim
+  * concat
+#### Metodos Array usados
+  * isArray
+  * fill
+  * push
+  * sort
+  * toString
