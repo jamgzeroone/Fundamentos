@@ -50,7 +50,7 @@
 
   ```
  
-### Métodos Javascript para Arrys y Strings.
+### Métodos Javascript para Arrays y Strings.
 #### Metodos Strings usados
   * endsWith
   * toLocaleUpperCase
@@ -64,3 +64,29 @@
   * push
   * sort
   * toString
+
+### Métodos Javascript para some y map.
+  > some
+  ```
+  let metodosome = ['Tigres', 'Abejas', 'Murcielagos', 'Avispas', 'Moscas'];
+  function palabrasSieteLetras(palabra) {
+    return palabra.length >= 7;
+  }
+  console.log(metodosome.some(palabrasSieteLetras));
+
+  ```
+  >map
+  ```
+  let ejemplo = ['papa', 'mama', 'manzana'];
+  const palabras = (palabra) => {
+    return palabra.split('').reverse().join('');
+  };
+
+  function alreves(pal) {
+    return pal.split('').reverse().join('');
+  }
+  console.log(metodosome);
+  console.log(metodosome.map(alreves));
+  console.log(ejemplo);
+  console.log(ejemplo.map(palabras));
+  ```
